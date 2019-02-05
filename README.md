@@ -188,18 +188,4 @@ Make a copy by clicking `file` and `make copy` or `save to drive`
 Book mark this repo or the colla notebook and experiement with the code. Try a different website. 
 
 
-## Challenges
-
-- Install Python and run this scraper locally
-- Scrape a different site
-- Visiualise your data better using [matplotlib](https://matplotlib.org/)
-- Save your data to a file or database
-- Sentiment analysis on headlines like Google news
-
-
-# Keep Learning
-
-- [Free Data Science Prep](https://www.galvanize.com/data-science-prep)
-
-
 
